@@ -13,14 +13,14 @@
 
 ## A little bit about me
  - :desert_island: I'm from a small island of Portugal, called  `Santa Maria` 
-  - :stethoscope: Medical doctor, currently doing residency training in Physical Medicine and Rehabilitation
-  - :computer: Passionate about coding
+  - :stethoscope: `Medical doctor`, currently doing residency training in Physical Medicine and Rehabilitation
+  - :computer: Passionate about `coding`
  - :hear_no_evil: Hoping to make a transition to the Tech World!
  
  
  
  ## Education
- - :computer: **Full Stack Web Development** at Le Wagon - 24 weeks part-time intensive bootcamp 
+ - :computer: `Full Stack Web Development` at Le Wagon - 24 weeks part-time intensive bootcamp 
  - :open_book: Medical degree at Coimbra's Medical Faculty.
  
  ## Skills
