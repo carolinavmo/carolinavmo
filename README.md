@@ -2,7 +2,7 @@
 <div align="left">
 
   <h1 align="left">
-    Hello :wave:, I'm Carolina! 
+    Welcome! :wave:   I'm Carolina
   </h1>
 
 </div>
